@@ -4,8 +4,8 @@ import Image from "next/image";
 import React from "react";
 import { CardBody, CardContainer, CardItem } from "../../app/components/ui/3d-card";
 import Link from "next/link";
-import courseData from "@/app/data/course-data.json"
-import { div } from "framer-motion/client";
+// import courseData from "@/app/data/course-data.json"
+// import { div } from "framer-motion/client";
 
 function page() {
   return (
@@ -57,6 +57,5 @@ function page() {
     </div>
   );
 }
-  
 
 export default page

@@ -2,7 +2,7 @@
 
 import React from 'react'
 import Link from 'next/link';
-import courseData from "../data/course-data.json"
+// import courseData from "../data/course-data.json"
 import { BackgroundGradient } from './ui/background-gradient';
 
 function FeaturedCourses() {

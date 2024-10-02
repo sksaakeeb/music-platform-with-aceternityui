@@ -3,7 +3,7 @@
 import React from 'react'
 import { BackgroundBeamsWithCollision } from "../components/ui/background-beams-with-collision";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
-import { div } from 'framer-motion/client';
+// import { div } from 'framer-motion/client';
 
 function Instructors() {
     const people = [
