@@ -3,7 +3,6 @@ import FeaturedCourses from "./components/FeaturedCourses";
 import TestimonialCards from "./components/TestimonialCards";
 import Webinars from "./components/Webinars";
 import Instructors from "./components/Instructors";
-import Footer from "./components/Footer";
 
 export default function Home() {
   return (
